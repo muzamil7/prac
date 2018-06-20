@@ -1,10 +1,1 @@
- Volume in drive D is Data
- Volume Serial Number is 18D7-701B
-
- Directory of D:\Muzamil\gitprac
-
-19/06/2018  14:49    <DIR>          .
-19/06/2018  14:49    <DIR>          ..
-19/06/2018  14:49                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  68,303,785,984 bytes free
+Hello world
